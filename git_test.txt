@@ -1,2 +1,2 @@
 
-Второе изменение файла "git_test.txt" ghjghjghjjgjhjhg
+Второе изменение файла "git_test.txt" ghjghjgjhjhg
